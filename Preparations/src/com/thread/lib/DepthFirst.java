@@ -3,6 +3,11 @@ package com.thread.lib;
 import java.util.LinkedList;
 import java.util.Stack;
 
+/**
+ * 
+ * @author Administrator
+ *
+ */
 public class DepthFirst {
 	
 	private static final int m=Integer.MAX_VALUE;
